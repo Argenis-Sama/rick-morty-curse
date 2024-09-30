@@ -38,6 +38,13 @@ body {
   color: #1ba94c;
 }
 
+.button-container .btn-search {
+  display: inline-block;
+  margin: 0 1rem; /* Espacio entre los botones */
+  padding: 1rem 2rem;
+  font-size: 16px;
+}
+
 .characters {
   padding: 50px;
 }
